@@ -1,0 +1,26 @@
+{
+  "name": "l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279",
+  "version": "1.0.0",
+  "description": "Replace me with an introduction to the project.",
+  "main": "index.js",
+  "scripts": {
+    "seed": "node scripts/auction-cli.js seed",
+    "delete": "node scripts/auction-cli.js delete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279/issues"
+  },
+  "homepage": "https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0"
+  }
+}
